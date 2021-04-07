@@ -121,7 +121,7 @@ header{
 }
 
 .section2 {
-    min-height: 101vh;
+    min-height: 130vh;
     background-image:linear-gradient(rgba(220, 220, 220, 0.69),
      rgba(220, 220, 220, 0.69)), url(../img/whiteout.jpg);
     background-position: center;
